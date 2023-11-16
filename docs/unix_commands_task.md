@@ -25,11 +25,11 @@
    - Add interesting facts about each city into their respective `about.txt` files. For example, use `echo "Amaravati is the legislative capital of Andhra Pradesh." > Amaravati/about.txt`.
 
 6. **Discovering Tourist Spots:**
-   - Inside each city directory, create a sub-directory named `TouristSpots`.
+   - Inside `Visakhapatnam` city directory, create a sub-directory named `TouristSpots`.
    - In `TouristSpots`, create text files for different tourist locations. For example, in `Visakhapatnam/TouristSpots`, create a file `Beaches.txt`.
 
 7. **Adding Information:**
-   - Add details to each tourist spot file. For instance, `echo "Rushikonda Beach is known for its golden sands." > Visakhapatnam/TouristSpots/Beaches.txt`.
+   - Add details to tourist spot file. For instance, `echo "Rushikonda Beach is known for its golden sands." > Visakhapatnam/TouristSpots/Beaches.txt`.
 
 8. **Navigating and Exploring:**
    - Use `ls`, `cd`, and `cat` to navigate through the directories and read the contents of the files.
