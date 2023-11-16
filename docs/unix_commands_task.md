@@ -9,7 +9,7 @@
 1. **Introduction and Terminal Launch:**
    - Start by opening the Git-Bash on your computer.
 2. **Start at the right place:**
-   - Navigate to your "IT Essentials" Folder
+   - Navigate to your "IT Essentials" Folder using `cd` command.
    - Create a new directory named `week07` using `mkdir week07`.
 
 3. **Creating Andhra Pradesh Directory:**
