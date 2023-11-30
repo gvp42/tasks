@@ -23,3 +23,25 @@ Create a directory called "BharatResearch" in the current directory. Inside "Bha
 ## Task-06
 In your home directory, create a new directory named "BharatWorkshop". Inside "BharatWorkshop", create three subdirectories: "Designs", "Plans", and "Reviews". In the "Designs" directory, create a file named "blueprint.txt" and use the `echo` command to add "Initial Design Blueprint" into it. After that, list the contents of the "Designs" directory and use `pwd` to display the current directory's path.
 
+## Task-07
+In your Week09 directory, create a new directory named "WebApp" in the current directory. Inside "WebApp", create four subdirectories: "HTML", "CSS", "Scripts", and "Assets". 
+
+1. In the "HTML" directory, use `touch` to create three files: "index.html", "about.html", and "contact.html".
+2. In the "CSS" directory, create two files: "styles.css" and "layout.css".
+3. Navigate to the "Scripts" directory using `cd` and use `touch` to create three files: "app.js", "utils.js", and "api.js".
+4. In the "Assets" directory, create two files: "logo.png" and "banner.jpg" using `touch`.
+5. Navigate back to the "WebApp" root directory and list all contents of each subdirectory individually.
+
+This expanded task involves creating a more complex directory and file structure, mimicking a real-world web application project layout.
+
+## Task-08
+
+1. In your week09 directory, create a new directory named "BharatHealthApp". Inside "BharatHealthApp", create three subdirectories: "App", "Docs", and "Tests".
+
+2. Inside the "App" directory, create two subdirectories: "Src" and "Assets".
+   - In "Src", use `touch` to create "main.js" and "helpers.js". Use `echo` to add a simple comment in each file, such as "Main application logic" in "main.js".
+   - In "Assets", create "logo.png" and "icons.png" using `touch`.
+
+3. In the "Docs" directory, create two files with `touch`: "README.md" and "SetupGuide.md". Use `echo` to add a brief project description to "README.md" and basic setup instructions in "SetupGuide.md".
+
+4. Inside the "Tests" directory, create two files: "appTest.js" and "apiTest.js" using `touch`. Add a comment like "App tests" in "appTest.js" using `echo`.
